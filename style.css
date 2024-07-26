@@ -1,0 +1,11 @@
+button{
+    padding: 8px;
+    background-color: darkslategrey;
+    color:yellow;
+    border: 4px solid yellow;
+    border-radius: 3px;
+}
+button:hover{
+    background-color: rgb(85, 154, 17);
+    text-transform: uppercase;
+}

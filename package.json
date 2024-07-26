@@ -11,5 +11,9 @@
     "url": "javascript"
   },
   "author": "siddharth",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1"
+  }
 }
