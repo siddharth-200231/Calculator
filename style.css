@@ -46,7 +46,9 @@
 }
 @media (max-width:300px) {
     .container{
-        height: 70vh;
+        height: 50vh;
+        position: relative;
+        top: 20vh;
     }
     
 }
