@@ -7,6 +7,7 @@
     flex-direction: column;
     justify-content:space-evenly;
     align-items: center;
+    box-sizing: border-box;
 }
 .display{
     border: 2px solid red;
@@ -20,4 +21,12 @@
     border: 2px solid red;
     height: 70%;
     width: 80%;
+}
+.btn{
+    height: 18%;
+    width: 24.3%;
+    border: none;
+    box-sizing: border-box;
+    
+
 }
