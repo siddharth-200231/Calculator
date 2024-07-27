@@ -27,6 +27,10 @@
     width: 80%;
     display: grid;
     grid-template-columns: repeat(3,1fr);
+    
+}
+.btn{
+    font-size: larger;
 }
 
 @media (min-width:700px) {
